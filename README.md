@@ -1,1 +1,1 @@
-# whitepaper
+# whitepaper in progress
